@@ -8,7 +8,8 @@ permalink: /research/
 
 # Research
 
-Updating soon -- stay put. (April 2024)
+Updating soon. (April 2024)
+
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"} -->
 
