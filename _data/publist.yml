@@ -1,8 +1,9 @@
 - title: "Pending"
   image: ShotNoise.png
   description: Pending
+
   authors: The next paper can be part of a collaboration, if you want
   link:
     url: https://red-appside.github.io
-    display: Red APPSIDE
+    display: Red APSIDE
   highlight: 1
