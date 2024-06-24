@@ -1,9 +1,9 @@
 ---
-title: "Red APSIDE - Team"
-layout: gridlay
-excerpt: "Red APSIDE: Team members"
-sitemap: false
-permalink: /team/
+# title: "Red APSIDE - Team"
+# layout: gridlay
+# excerpt: "Red APSIDE: Team members"
+# sitemap: false
+# permalink: /team/
 ---
 
 # Group Members
