@@ -1,7 +1,7 @@
 ---
-title: "RED UPSIDE - Publications"
+title: "RED APSIDE - Publications"
 layout: gridlay
-excerpt: "RED UPSIDE -- Publications."
+excerpt: "RED APSIDE -- Publications."
 sitemap: false
 permalink: /publications/
 ---

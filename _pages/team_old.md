@@ -1,7 +1,7 @@
 ---
-title: "Red UPSIDE - Team"
+title: "Red APSIDE - Team"
 layout: gridlay
-excerpt: "Red UPSIDE: Team members"
+excerpt: "Red APSIDE: Team members"
 sitemap: false
 permalink: /team/
 ---
