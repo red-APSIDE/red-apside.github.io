@@ -1,7 +1,7 @@
 ---
 title: Equipo Red APSIDE
 layout: default
-excerpt: 'Equipo Red APSIDE'
+excerpt: Equipo Red APSIDE
 sitemap: false
 permalink: /team/
 ---
@@ -13,7 +13,7 @@ Los grupos de investigación que se integran en la red temática son los siguien
 [Acoustic and Electromagnetic Smart Sensor Networks and Signal processing Group \(AES3\)](https://www.uah.es/es/investigacion/unidades-de-investigacion/grupos-de-investigacion/Redes-de-sensores-acusticos-y-electromagneticos-inteligentes-y-procesado-de-la-senal-Acoustic-and-Electromagnetic-Smart-Sensor-networks-and-Signal-processing/)
 
 2. Alberto González Salvador, Universitat Politècnica de València (UPV)
-[Grupo: Audio and Communications Signal Processing Group \(GTAC\)](https://www.iteam.upv.es/group/gtac/)
+[Audio and Communications Signal Processing Group \(GTAC\)](https://www.iteam.upv.es/group/gtac/)
 
 3. Pedro Vera Candeas, Universidad de Jaén (UJA)
 [Grupo de Tratamiento de Señales en Sistemas de Telecomunicación](https://www.ujaen.es/investigacion-y-transferencia/grupos-de-investigacion/tratamiento-de-senales-en-sistemas-de-telecomunicacion)
@@ -48,3 +48,5 @@ Los grupos de investigación que se integran en la red temática son los siguien
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/mapa.png" style="width:80%;">
 </figure>
+
+
